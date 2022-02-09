@@ -5,5 +5,5 @@
 <code>🧻 Current [project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@ivanopolus21](https://telegram.me/ivanopolus21)</code>
+<code>📫 [i.p.yeremenko@gmail.com](mailto:i.p.yeremenko@gmail.com)</code>
