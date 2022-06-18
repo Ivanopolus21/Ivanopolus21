@@ -2,7 +2,7 @@
 <code>🎪 Group: IM-11</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 Current [project](README.md)</code><br>
+<code>🧻 Current [project](https://github.com/Ivanopolus21/Ultimate-Snake)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@ivanopolus21](https://telegram.me/ivanopolus21)</code>
