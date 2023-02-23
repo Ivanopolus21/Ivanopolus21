@@ -1,4 +1,5 @@
-<code>🎓 Student: KPI</code>
+<code>🎓 Student: CVUT FEL</code>
+<code>🎓 Student: KPI (previous)</code>
 <code>🎪 Group: IM-11</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
