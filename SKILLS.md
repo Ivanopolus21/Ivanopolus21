@@ -31,3 +31,21 @@
 | 🟨 ...spread         |                       | 🟦 lambda             | 🟩 global           | 🟨 node.js           |
 | 🟨 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
 | 🟨 typeof            |                       |                       | 🟩 null             |                      |
+
+## Design Patterns
+
+⬜ Existing, 🟨 No practical usage, 🟩 Learned, 🟥 Declined
+
+| Creational               | Structural            | Behavioral                  | 
+|--------------------------|-----------------------|-----------------------------|
+| 🟩 Factory              | ⬜ Adapter            | ⬜ Chain of Resposibility   | 
+| 🟩 Abstract Factory     | ⬜ Bridge             | ⬜ Command                  | 
+| 🟩 Builder              | ⬜ Composite          | ⬜ Iterator                 | 
+| ⬜ Prototype            | ⬜ Decorator          | ⬜ Mediator                 | 
+| 🟩 Singleton            | 🟩 Facade             | 🟨 Memento                  | 
+|                         | ⬜ Flyweight          | 🟨 Observer                 | 
+|                         | ⬜ Proxy              | 🟩 State                    |
+|                         |                        | 🟩 Strategy                 | 
+|                         |                        | ⬜ Template Method          | 
+|                         |                        | 🟨 Visitor                  |
+
