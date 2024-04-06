@@ -4,6 +4,6 @@
 <code>👨‍💻 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🎯 Current [project](https://github.com/Ivanopolus21/GameList)</code><br>
-<code>💻 Languages: JavaScript, Python, Java</code>
+<code>💻 Languages: JavaScript (React), Java, C++</code>
 <code>💬 telegram: [@ivanopolus21](https://telegram.me/ivanopolus21)</code>
 <code>📫 [i.p.yeremenko@gmail.com](mailto:i.p.yeremenko@gmail.com)</code>
